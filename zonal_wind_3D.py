@@ -1,3 +1,7 @@
+% Authors: Dr. Sandro W. Lubis (Nov 2021)
+% Contact: slubis.geomar@gmail.com
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 import cdsapi
 
 year = range(1979, 2022)
